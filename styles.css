@@ -1,0 +1,23 @@
+* {
+    color: black;
+    background-color: rgb(200, 255, 255);
+}
+
+h1 {
+    color: purple;
+    background-color: pink;
+}
+
+h2,
+h3 {
+    color: purple;
+}
+
+a {
+    color: blue;
+}
+
+img {
+    width: 724px;
+    height: auto;
+}
